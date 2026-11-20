@@ -1,0 +1,6 @@
+{
+  "name": "CHC Muribahal Hospital Management System",
+  "description": "Official public healthcare management portal for CHC Muribahal Hospital, Muribahal, Odisha, India — online appointment booking, patient registration, live doctor availability, and authorized hospital administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
